@@ -1,0 +1,4 @@
+Keras MSE on TestData, 0.000963
+Rescaled MSE on TestData, 1.949389
+Keras MSE on last_predict, 1.259988
+Rescaled MSE on last_predict, 2551.475052
